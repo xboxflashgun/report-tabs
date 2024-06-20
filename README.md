@@ -2,7 +2,7 @@
 Update CCU tables for reporting
 
 tables:
-'''
+```
 utime titleid countryid langid players secs
 
 0 - hours
@@ -18,4 +18,4 @@ repstat<n>, n = 0, 1, 2 - for overall statistics for the period of reptab
 repstat0 - for the last 168 hours
 repstat1 - for the last 183 days (half a year)
 repstat2 - for the whole period available
-'''
+```
