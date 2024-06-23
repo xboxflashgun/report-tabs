@@ -14,6 +14,5 @@ utime titleid countryid langid players secs
 reptab<n>, n = 0..5 - points for graph
 repstat<n>, n = 0, 1, 2 - for overall statistics for the period of reptab
 
-repstat0 - for the last 183 days (half a year)
-repstat1 - for the whole period available
+repstat - for the whole period available (no utime)
 ```
